@@ -15,8 +15,8 @@ The Lucky Draw Email Sender Script is a robust and efficient tool designed to au
 
 **Usage**: 
 
-User Details CSV File: Ensure that the user_details_csv.csv file is present, containing relevant user information in CSV format.
-
+User Details CSV File: Ensure that the user_details_csv.csv file is present, containing relevant user information in CSV format.(My csv is not uploaded for privacy concern)
+**Columns:** USER,EMAIL_ID, CUSTOMER_NAME 
 Email Setup: Configure email settings using the EmailSetup module to set up Gmail and Outlook accounts for sending emails.
 Executing the Script:
 
