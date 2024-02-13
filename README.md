@@ -15,14 +15,14 @@ The Lucky Draw Email Sender Script is a robust and efficient tool designed to au
 
 **Usage**: 
 
-User Details CSV File: Ensure that the user_details_csv.csv file is present, containing relevant user information in CSV format.
+User Details CSV File: Ensure that the user_details_csv.csv file is present, containing relevant user information in CSV format.(My csv is not uploaded for privacy concern)
+**Columns:** USER,EMAIL_ID, CUSTOMER_NAME 
 
-Email Setup: Configure email settings using the EmailSetup module to set up Gmail and Outlook accounts for sending emails.
-Executing the Script:
+1. Email Setup: Configure email settings using the EmailSetup module to set up Gmail and Outlook accounts for sending emails.
 
-Run the script (lucky_draw_email_sender.py) to choose lucky winners, generate personalized email content, and send emails to both winners and non-winners.
+2. Executing the Script: Run the script (lucky_draw_email_sender.py) to choose lucky winners, generate personalized email content, and send emails to both winners and non-winners.
 
-Check Console Output: The script provides clear console output indicating the lucky winners and recipients for whom emails have been sent.
+3. Check Console Output: The script provides clear console output indicating the lucky winners and recipients for whom emails have been sent.
 
 **Note:**
 The script utilizes personalized HTML content for Gmail and Outlook accounts, ensuring a visually appealing and engaging email experience.
