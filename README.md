@@ -1,6 +1,11 @@
 # CVIP_PersonalizedEmailSenderScript
-Lucky Draw Email Sender Script
+
+**Lucky Draw Email Sender Script**
+
 The Lucky Draw Email Sender Script is a robust and efficient tool designed to automate the process of sending personalized emails to a list of recipients. This script enhances communication and engagement by allowing users to tailor the content of each email based on individual preferences and details.
+
+---
+![Winner](images/Winner_Email.png)
 
 **Features:**
 1. User Details from CSV: The script initializes by reading user details from a CSV file (user_details_csv.csv), ensuring seamless integration with existing user data.
@@ -28,3 +33,6 @@ User Details CSV File: Ensure that the user_details_csv.csv file is present, con
 The script utilizes personalized HTML content for Gmail and Outlook accounts, ensuring a visually appealing and engaging email experience.
 
 This script is intended for lucky draw contests and can be customized for other personalized email campaigns.
+---
+[Others](images/Offers_for_others.png)
+
