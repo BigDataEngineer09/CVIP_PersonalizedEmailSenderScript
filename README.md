@@ -33,6 +33,8 @@ User Details CSV File: Ensure that the user_details_csv.csv file is present, con
 The script utilizes personalized HTML content for Gmail and Outlook accounts, ensuring a visually appealing and engaging email experience.
 
 This script is intended for lucky draw contests and can be customized for other personalized email campaigns.
+
 ---
+
 [Others](images/Offers_for_others.png)
 
