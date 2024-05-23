@@ -36,5 +36,5 @@ This script is intended for lucky draw contests and can be customized for other 
 
 ---
 
-[Others](images/Offers_for_others.png)
+![Others](images/Offers_for_others.png)
 
